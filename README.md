@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natanator
 - 👀 I’m interested in ... Triathlon
-- 🌱 I’m currently learning ... coding - with focus on web design in shopify
+- 🌱 I’m currently learning ... coding - with focus on web designing in shopify
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
