@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Natanator
-- 👀 I’m interested in ... Triathlon
-- 🌱 I’m currently learning ... coding - with focus on web designing in shopify
+- 👋 Hi, I’m @Natanator from Germany
+-  
+- 👀 I’m interested in ...  Triathlon
+- 🌱 I’m currently learning ... coding - with focus on web designing in shopify ( after studying economics in Germany )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
